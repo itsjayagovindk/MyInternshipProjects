@@ -13,7 +13,7 @@
 import requests
 
 # setting up API key and base URL
-api_key  = "13538ac5e9be3fe26154a91ecf6fc404"
+api_key  = "ENTER_API_KEY"
 base_url = "http://api.exchangeratesapi.io/v1/"
 endpoint = "latest" # fetches latest rates from the dataset
 
